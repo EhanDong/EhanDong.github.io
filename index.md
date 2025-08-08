@@ -5,15 +5,15 @@ title: Home
 
 <nav class="navbar navbar-dark navbar-expand-lg fixed-top">
     <div id="layout-menu">
-        <a href="http://www.mu4yang.com">Home</a>
+        <a href="https://ehandong.github.io">Home</a>
         <a href="#pub">Publications</a>
         <a href="#pub">Projects</a>
     </div>
 </nav>
 
-<img src="linlin.png" class="avatar" alt="Avatar" />
+<img src="haodongzhu.jpg" class="avatar" alt="Avatar" />
 
-# Linlin Yang
+# Haodong Zhu
 <html>
 <head>
 <title>Font Awesome Icons</title>
@@ -21,18 +21,19 @@ title: Home
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-<a href="mailto:mu4yang@gmail.com"><i class="fa fa-fw fa-envelope" aria-hidden="true"></i> Email</a> &nbsp; 
-<a href="https://scholar.google.com.hk/citations?user=gI55gF0AAAAJ&hl=en-US"><i class="fa fa-fw fa-graduation-cap"></i> Google Scholar</a>
+<a href="mailto:HaodongZhu@buaa.edu.cn"><i class="fa fa-fw fa-envelope" aria-hidden="true"></i> Email</a> &nbsp; 
+<a href="https://scholar.google.com/citations?user=1nxTBxMAAAAJ&hl=zh-CN&authuser=1"><i class="fa fa-fw fa-graduation-cap"></i> Google Scholar</a>
 </body>
 </html> 
 
 <br>
 
-I have joined Communication University of China (CUC). Earlier I completed my PhD at University of Bonn.<br>
+I am a PhD student at Beihang University, jointly trained at Zhongguancun Academy. <br>
+Stay curious, upbeat, and resilient. Onward! <br>
 
 
 ##  Research Interests
-Hand/Human Pose Estimation, Semi-/Self-Supervised Learning and Network Quantization.
+Multimodal Learning, 3DGS.
 
 
 ## Professional Services 
@@ -48,31 +49,10 @@ Reviewer: CVPR(20-25), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24)
 
 <div style="height: 200px; overflow: auto;">
 <ul>
-<li> Jun 2025: Two papers are accepted to ICCV2025.</li>
-<li> May 2025: One paper is accepted to ICML2025.</li>
-<li> Apr 2025: We will host 9th HANDS workshop in conjunction with ICCV25! See you in Honolulu.</li>
-<li> Feb 2025: Two papers are accepted to CVPR2025.</li>
-<li> Feb 2025: I will serve as an area chair of NeurIPS2025.</li>
-<li> Jan 2025: Two papers are accepted to ICLR2025.</li>
-<li> Dec 2024: One paper is accepted to ICASSP2025.</li>
-<li> Dec 2024: I will serve as an area chair of ICML2025.</li>
-<li> Dec 2024: One paper is accepted to TIP2024.</li>
-<li> Sep 2024: One paper is accepted to NeurIPS2024.</li>
-<li> May 2024: One paper is accepted to Neurocomputing2024.</li>
-<li> Apr 2024: We will host 8th HANDS workshop in conjunction with ECCV24! See you in Milano.</li>
-<li> Mar 2024: I will serve as an area chair of <a href="https://neurips.cc/Conferences/2024/ProgramCommittee#all-area-chairs">NeurIPS2024</a>. </li>
-<li> Dec 2023: One paper is accepted to AAAI2024. </li>
-<li> Dec 2023: I am on <a href="https://neurips.cc/Conferences/2023/ProgramCommittee">the list of Top Reviewers of NeurIPS2023</a>. </li>
-<li> Oct 2023: One paper is accepted to WACV2024. </li>
-<li> Sep 2023: One paper is accepted to NeurIPS2023. </li>
-<li> Jul 2023: One paper is accepted to ICCV2023. </li>
-<li> Jul 2023: One paper is accepted to GCPR2023. </li>
-<li> May 2023: One paper is accepted to IJCV2023. </li>
-<li> Mar 2023: We will host 7th HANDS workshop in conjunction with ICCV23! </li>
-<li> Mar 2023: One paper is accepted to TPAMI2023. </li>
-<li> Feb 2023: Three papers are accepted to CVPR2023. </li>
-<li> Jan 2023: One paper is accepted to ICLR2023. </li>
-<li> Nov 2022: I have successfully completed my PhD defense. </li>
+<li> Jun 2025:  One paper is accepted to ICCV 2025. </li>
+<li> Apr 2025: I have joined Zhongguancun Academy. </li>
+<li> Feb 2025: One paper is accepted to IEEE Transactions on Multimedia. </li>
+<li> Sep 2024: I have just started my PhD defense. </li>
 </ul>
 </div>
 
