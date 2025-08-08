@@ -27,21 +27,21 @@ title: Home
 </html> 
 
 <br>
-
+<div style="line-height: 1.8;">
 I am a PhD student at Beihang University, jointly trained at Zhongguancun Academy. <br>
 Stay curious, upbeat, and resilient. Onward! <br>
+</div>
 
 
 ##  Research Interests
 Multimodal Learning, 3DGS.
 
 
-## Professional Services 
+## Honors & Activities 
 
 <div style="line-height: 1.8;">
-Workshop Organizer: the HANDS workshop series (<a href="http://hands-workshop.org">@ICCV25</a>, <a href="http://hands-workshop.org">@ECCV24</a>, <a href="https://sites.google.com/view/hands2023/">@ICCV23</a>, <a href="https://sites.google.com/view/hands2022/home">@ECCV22</a>) <br>
-Area Chair: NeurIPS24, ICML25, NeurIPS25 <br>
-Reviewer: CVPR(20-25), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24), AAAI(22,24), WACV(22,24), ACCV(22)<br>
+Honors: Outstanding Graduate, Beihang University.  Over 30 national and provincial awards during undergraduate study. <br>
+Reviewer: AAAI(25)<br>
 </div>
 
 <span id="news"></span>
@@ -57,221 +57,42 @@ Reviewer: CVPR(20-25), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24)
 </div>
 
 <span id="pub"></span>
-## Publications [[Preprint](#Preprint) - [2025](#pub2025) - [2024](#pub2024) - [2023](#pub2023) - [2022 and before](#pub2022)]
+## Publications [[Preprint](#Preprint) - [2025](#pub2025) ]
 
 
 
 <h3 id="Preprint">Preprint</h3>
-- InstructHumans: Editing Animated 3D Human Textures with Instructions<br>
-Jiayin Zhu, **Linlin Yang**, Angela Yao<br>
-*arXiv*, 2024.<br>
-[[arXiv]](https://arxiv.org/abs/2404.04037) 
 
-- Language-guided Open-world Video Anomaly Detection<br>
-Zihao Liu, Xiaoyu Wu, Jianqin Wu, Xuxu Wang, **Linlin Yang**<br>
+- Surf3R: Rapid Surface Reconstruction from Sparse RGB Views in Seconds<br>
+**Haodong Zhu**\#, Changbai Li\#, Yangyang Ren, Zichao Feng, Xuhui Liu, Hanlin Chen, Xiantong Zhen, Baochang Zhang<br>
 *arXiv*, 2025.<br>
-[[arXiv]](https://arxiv.org/abs/2503.13160)
-
-- Rethinking Metrics and Benchmarks of Video Anomaly Detection<br>
-Zihao Liu, Xiaoyu Wu, Wenna Li, **Linlin Yang**<br>
-*arXiv*, 2025.<br>
-[[arXiv]](https://arxiv.org/pdf/2505.19022)
-
-- MLVTG: Mamba-Based Feature Alignment and LLM-Driven Purification for Multi-Modal Video Temporal Grounding<br>
-Zhiyi Zhu, Xiaoyu Wu, Zihao Liu, **Linlin Yang**<br>
-*arXiv*, 2025.<br>
-[[arXiv]](https://arxiv.org/abs/2506.08512)
-
-- Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses<br>
-Qiuxia Lin, Kerui Gu, **Linlin Yang**, Angela Yao<br>
-*arXiv*, 2025.<br>
-[[arXiv]](https://arxiv.org/pdf/2503.11194)
+[[arXiv]](https://www.arxiv.org/abs/2508.04508)
 
 - Squeeze10-LLM: Squeezing LLMs' Weights by 10 Times via a Staged Mixed-Precision Quantization Method<br>
-Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu, Zichao Feng, Haodong Zhu, Yuguang Yang, Juan Zhang, Runqi Wang, Baochang Zhang<br>
+Qingcheng Zhu, Yangyang Ren, Linlin Yang, Mingbao Lin, Yanjing Li, Sheng Xu, Zichao Feng, **Haodong Zhu**, Yuguang Yang, Juan Zhang, Runqi Wang, Baochang Zhang<br>
 *arXiv*, 2025.<br>
 [[arXiv]](https://www.arxiv.org/pdf/2507.18073)
 
+- HRGS: Hierarchical Gaussian Splatting for Memory-Efficient High-Resolution 3D Reconstruction<br>
+Changbai Li\#, **Haodong Zhu**\#, Hanlin Chen, Juan Zhang, Tongfei Chen, Shuo Yang, Shuwei Shao, Wenhao Dong, Baochang Zhang<br>
+*arXiv*, 2025.<br>
+[[arXiv]](https://arxiv.org/pdf/2506.14229?)
+
+
+
 <h3 id="pub2025">2025</h3>
 
-- M3DP: Optimizing 2D Vision Tasks with Minimal 3D Object Information<br>
-Ziming Wang, Yanjing Li, **Linlin Yang**, Xinkai Liang, Xianbin Cao, Qi Wang, Baochang Zhang<br>
-*Neurocomputing* 2025.<br>
-[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0925231225015772)
-
-- Uncertainty-Aware Gradient Stabilization for Small Object Detection<br>
-Huixin Sun, Yanjing Li, **Linlin Yang**, Xianbin Cao, Baochang Zhang<br>
-*International Conference on Computer Vision (ICCV)*, 2025.<br>
-[[arXiv]](https://arxiv.org/pdf/2303.01803v2)
-
 - WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection<br>
-Haodong Zhu\#, Wenhao Dong\#, **Linlin Yang**\*, Hong Li, Yuguang Yang, Yangyang Ren, Qingcheng Zhu, Zichao Feng, Changbai Li, Shaohui Lin, Runqi Wang, Xiaoyan Luo\*, Baochang Zhang<br>
+**Haodong Zhu**\#, Wenhao Dong\#, Linlin Yang, Hong Li, Yuguang Yang, Yangyang Ren, Qingcheng Zhu, Zichao Feng, Changbai Li, Shaohui Lin, Runqi Wang, Xiaoyan Luo\*, Baochang Zhang<br>
 *International Conference on Computer Vision (ICCV)*, 2025.<br>
 [[arXiv]](https://www.arxiv.org/pdf/2507.18173) 
 
-- ExtPose: Robust and Coherent Pose Estimation by Extending ViTs<br>
-Rongyu Chen, Li'an Zhuo, **Linlin Yang**, Qi WANG, Liefeng Bo, Bang Zhang, Angela Yao<br>
-*International Conference on Machine Learning (ICML)*, 2025.<br>
-[[openreview]](https://openreview.net/pdf?id=hm9FNEZZ6z)
 
-- Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation<br>
-Zhuoran Zhao, **Linlin Yang**\*, Pengzhan Sun, Pan Hui, Angela Yao<br>
-*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025.<br>
-[[arXiv]](https://arxiv.org/abs/2503.19307) 
-
-- SET: Spectral Enhancement for Tiny Object Detection<br>
-Huixin Sun, Runqi Wang, Yanjing Li, **Linlin Yang**, Shaohui Lin, Xianbin Cao, Baochang Zhang<br>
-*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025.<br>
-[[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_SET_Spectral_Enhancement_for_Tiny_Object_Detection_CVPR_2025_paper.pdf)
-
-- Efficient Low-Bit Quantization with Adaptive Scales for Multi-Task Co-Training<br>
-Boyu Liu\#, Haoyu Huang\#, **Linlin Yang**\*, Yanjing Li\*, Guodong Guo, Xianbin Cao, Baochang Zhang<br>
-*International Conference on Learning Representations (ICLR)*, 2025.<br>
-[[openreview]](https://openreview.net/forum?id=wA2RMD2AFq) 
-
-- Prompt as Knowledge Bank: Boost Vision-language model via Structural Representation for zero-shot medical detection<br>
-Yuguang Yang\#, Tongfei Chen\#, Haoyu Huang,  **Linlin Yang**\*, Chunyu Xie\*, Dawei Leng, Xianbin Cao, Baochang Zhang<br>
-*International Conference on Learning Representations (ICLR)*, 2025.<br>
-[[openreview]](https://openreview.net/forum?id=l0t2rumAvR) 
-
-- DTR: Dynamic Tree-Ring Watermarking Framework for Diffusion-Based Video Generation<br>
-Shunyang Zeng\#, **Linlin Yang**\#, Jin Yang, Yezhen Wang, Tianyu Gao<br>
-*International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.<br>
-[[pdf]](https://ieeexplore.ieee.org/document/10888152)
+- Fusion-mamba for cross-modality object detection<br>
+Wenhao Dong\#, **Haodong Zhu**\#, Shaohui Lin, Xiaoyan Luo, Yunhang Shen, Xuhui Liu, Juan Zhang, Guodong Guo, Baochang Zhang<br>
+*IEEE Transactions on Multimedia*, 2025.<br>
+[[arXiv]](https://arxiv.org/pdf/2404.09146) 
 
 
-<h3 id="pub2024">2024</h3>
-
-- Normalizing Batch Normalization for Long-Tailed Recognition<br>
-Yuxiang Bao\#, Guoliang Kang\#, **Linlin Yang**, Xiaoyue Duan, Bo Zhao, Baochang Zhang<br>
-*IEEE Transactions on Image Processing  (TIP)*, 2024.<br>
-[[arXiv]](https://arxiv.org/abs/2501.03122) 
-
-
-- CLIP in Mirror: Disentangling text from visual images through reflection<br>
-Tiancheng Wang, Yuguang Yang, **Linlin Yang**\*, Shaohui Lin, Juan Zhang, Guodong Guo, Baochang Zhang<br>
-*Advances in Neural Information Processing Systems  (NeurIPS)*, 2024.<br>
-[[openreview]](https://openreview.net/forum?id=FYm8coxdiR) 
-
-- Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects<br>
-Zicong Fan\#, Takehiko Ohkawa\#, **Linlin Yang**\#, Nie Lin, Zhishan Zhou, Shihao Zhou, Jiajun Liang, Zhong Gao, Xuanyang Zhang, Xue Zhang, Fei Li, Liu Zheng, Feng Lu, Karim Abou Zeid, Bastian Leibe, Jeongwan On, Seungryul Baek, Aditya Prakash, Saurabh Gupta, Kun He, Yoichi Sato, Otmar Hilliges, Hyung Jin Chang, Angela Yao<br>
-*ECCV*, 2024.<br>
-[[arXiv]](https://arxiv.org/abs/2403.16428) 
-
-- DecomCAM: Advancing Beyond Saliency Maps through Decomposition and Integration<br>
-Yuguang Yang\#, Runtang Guo\#, Sheng Wu, Yimi Wang, **Linlin Yang**, Bo Fan, Jilong Zhong, Juan Zhang, Baochang Zhang<br>
-*Neurocomputing* 2024.<br>
-[[arXiv]](https://arxiv.org/abs/2405.18882)
-
-- AQ-DETR: Low-Bit Quantized Detection Transformer with Auxiliary Queries<br>
-Runqi Wang, Huixin Sun, **Linlin Yang**\*, Shaohui Lin, Chuanjian Liu, Yan Gao, Yao Hu, Baochang Zhang<br>
-*AAAI Conference on Artificial Intelligence (AAAI)* 2024.<br>
-[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29487)
-
-
-- Rethinking Visibility in Human Pose Estimation: Occluded Pose Reasoning via Transformers<br>
-Pengzhan Sun, Kerui Gu, Yunsong Wang, **Linlin Yang**, Angela Yao<br>
-*Winter Conference on Applications of Computer Vision (WACV)* 2024.<br>
-[[pdf]](https://pengzhansun.github.io/files/1484.pdf)
-
-
-<h3 id="pub2023">2023</h3>
-- Synthetic-to-Real Pose Estimation with Geometric Reconstruction<br>
-Qiuxia Lin, Kerui Gu, **Linlin Yang**, Angela Yao<br>
-*Advances in Neural Information Processing Systems  (NeurIPS)*, 2023.<br>
-[[openreview]](https://openreview.net/forum?id=HvhagNdf5z)  
-
-
-- Multiple Hypotheses Meet Entropy for Pose and Shape Recovery<br>
-Rongyu Chen\#, **Linlin Yang**\#, Angela Yao<br>
-*International Conference on Computer Vision (ICCV)*, 2023.<br>
-[[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_MHEntropy_Entropy_Meets_Multiple_Hypotheses_for_Pose_and_Shape_Recovery_ICCV_2023_paper.pdf) 
-
-
-- HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture<br>
-Jiayin Zhu, Zhuoran Zhao, **Linlin Yang**, Angela Yao<br>
-*German Conference on Pattern Recognition (GCPR)*, 2023.<br>
-[[arxiv]](https://www.dagm-gcpr.de/fileadmin/dagm-gcpr/pictures/2023_Heidelberg/Paper_MainTrack/007.pdf)
-
-
-- Anti-Bandit for Neural Architecture Search<br>
-Runqi Wang\#, **Linlin Yang**\#, Hanlin Chen, Wei Wang, David Doermann, Baochang Zhang<br>
-*International Journal of Computer Vision (IJCV)*, 2023.<br>
-[[pdf]](https://link.springer.com/article/10.1007/s11263-023-01826-6)  
-
-
-- Bias-Compensated Integral Regression for Human Pose Estimation<br>
-Kerui Gu, **Linlin Yang**, Michael Bi Mi, Angela Yao<br>
-*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2023.<br>
-[[arxiv]](https://arxiv.org/abs/2301.10431)  
-
-
-- Overcoming the Trade-off Between Accuracy and Plausibility in 3D Hand Shape Reconstruction<br>
-Ziwei Yu, Chen Li, **Linlin Yang**, Xiaoxu Zheng, Michael Bi Mi, Gim Hee Lee, Angela Yao<br>
-*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2023.<br>
-[[pdf]](https://www.mu4yang.com/files/papers/overcoming.pdf) 
-
-
-- Analyzing and Diagnosing Pose Estimation with Attribution<br>
-Qiyuan He\#, **Linlin Yang**\#, Kerui Gu, Qiuxia Lin, Angela Yao<br>
-*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2023.<br>
-[[pdf]](https://www.mu4yang.com/files/papers/analyzing.pdf) 
-
-
-- Cross-domain 3D Hand Pose Estimation with Dual Modalities<br>
-Qiuxia Lin\#, **Linlin Yang**\#, Angela Yao<br>
-*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2023.<br>
-[[pdf]](https://www.mu4yang.com/files/papers/cross_domain.pdf) 
-
-
-- Improving Deep Regression with Ordinal Entropy<br>
-Shihao Zhang, **Linlin Yang**, Michael Bi Mi, Xiaoxu Zheng, Angela Yao<br>
-*International Conference on Learning Representations (ICLR)*, 2023.<br>
-[[openreview]](https://openreview.net/forum?id=raU07GpP0P)  
-
-
-
-<h3 id="pub2022">2022 and before</h3>
-- UV-Based 3D Hand-Object Reconstruction with Grasp Optimization<br>
-Ziwei Yu, **Linlin Yang**, You Xie, Ping Chen, Angela Yao<br>
-*British Machine Vision Conference (BMVC)*, 2022.<br>
-[[arxiv]](https://arxiv.org/abs/2211.13429)  
-
-- Dive Deeper Into Integral Pose Regression<br>
-Kerui Gu, **Linlin Yang**, Angela Yao<br>
-*International Conference on Learning Representations (ICLR)*, 2022.<br>
-[[openreview]](https://openreview.net/forum?id=vHVcB-ak3Si)  
-
-
-- Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation<br>
-Ziwei Yu, **Linlin Yang**, Shicheng Chen, Angela Yao<br> 
-*British Machine Vision Conference (BMVC)*, 2021.<br>
-[[arxiv]](https://arxiv.org/abs/2112.06389)  
-
-- SemiHand: Semi-supervised Hand Pose Estimation with Consistency<br> 
-**Linlin Yang**, Shicheng Chen, Angela Yao<br> 
-*International Conference on Computer Vision (ICCV)*, 2021.<br>
-[[pdf]](https://www.mu4yang.com/files/project/semihand/semihand.pdf)  [[supp]](https://www.mu4yang.com/files/project/semihand/semihand-supp.pdf)
-
-- Removing the Bias of Integral Pose Regression<br> 
-Kerui Gu, **Linlin Yang**, Angela Yao<br>
-*International Conference on Computer Vision (ICCV)*, 2021.<br>
-[[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_Removing_the_Bias_of_Integral_Pose_Regression_ICCV_2021_paper.pdf)  
-
-- Cogradient Descent for Bilinear Optimization<br>
-Li’an Zhuo, Baochang Zhang, **Linlin Yang**, Hanlin Chen, Qixiang Ye, David Doermann, Rongrong Ji, Guodong Guo<br>
-*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020.<br>
-[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhuo_Cogradient_Descent_for_Bilinear_Optimization_CVPR_2020_paper.pdf)  
-
-- Aligning Latent Spaces for 3D Hand Pose Estimation<br> 
-**Linlin Yang**\#, Shile Li\#, Dongheui Lee and Angela Yao<br> 
-*International Conference on Computer Vision (ICCV)*, 2019.<br>
-[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Aligning_Latent_Spaces_for_3D_Hand_Pose_Estimation_ICCV_2019_paper.pdf)  [[supp]](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Yang_Aligning_Latent_Spaces_ICCV_2019_supplemental.pdf)  [[poster]](https://www.mu4yang.com/files/posters/iccv19_poster_aligning.pdf) [[Quantitative Results]](https://www.mu4yang.com/files/data/AUC_Aligning.txt) 
-
-
-- Disentangling Latent Hands for Image Synthesis and Pose Estimation<br>
-**Linlin Yang** and Angela Yao<br>
-*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019.<br>
-[[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Disentangling_Latent_Hands_for_Image_Synthesis_and_Pose_Estimation_CVPR_2019_paper.pdf)  [[supp]](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Yang_Disentangling_Latent_Hands_CVPR_2019_supplemental.pdf) [[poster]](https://www.mu4yang.com/files/posters/cvpr19_poster_dVAE.pdf) [[Quantitative Results]](https://www.mu4yang.com/files/data/AUC_Disentangling.txt)
 
 
