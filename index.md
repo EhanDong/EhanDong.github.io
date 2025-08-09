@@ -40,7 +40,7 @@ Multimodal Learning, 3DGS.
 ## Honors & Activities 
 
 <div style="line-height: 1.8;">
-Honors: Outstanding Graduate, Beihang University.  Over 30 national and provincial awards during undergraduate study. <br>
+Honors: Outstanding Graduate, Beihang University.  Over 30 national and provincial awards during undergraduate study. Outstanding Camper, 2025 Spring Camp, Zhongguancun Academy. <br>
 Reviewer: AAAI(25)<br>
 </div>
 
@@ -52,7 +52,7 @@ Reviewer: AAAI(25)<br>
 <li> Jun 2025:  One paper is accepted to ICCV 2025. </li>
 <li> Apr 2025: I have joined Zhongguancun Academy. </li>
 <li> Feb 2025: One paper is accepted to IEEE Transactions on Multimedia. </li>
-<li> Sep 2024: I have just started my PhD defense. </li>
+<li> Sep 2024: I have just started my PhD studies in Artificial Intelligence at Beihang University. </li>
 </ul>
 </div>
 
