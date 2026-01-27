@@ -49,6 +49,7 @@ Reviewer: AAAI(25)<br>
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Jan 2026:  One paper is accepted to ICLR 2026. </li>
 <li> Jun 2025:  One paper is accepted to ICCV 2025. </li>
 <li> Apr 2025: I have joined Zhongguancun Academy. </li>
 <li> Feb 2025: One paper is accepted to IEEE Transactions on Multimedia. </li>
@@ -78,6 +79,12 @@ Changbai Li\#, **Haodong Zhu**\#, Hanlin Chen, Juan Zhang, Tongfei Chen, Shuo Ya
 *arXiv*, 2025.<br>
 [[arXiv]](https://arxiv.org/pdf/2506.14229?)
 
+
+<h3 id="pub2026">2026</h3>
+
+- UrbanGS: Efficient and Scalable Architecture for Geometrically Accurate Large-Scene Reconstruction<br>
+Changbai Li\#, **Haodong Zhu**\#, Hanlin Chen, Xiuping Liang, Tongfei Chen, Shuwei Shao, Linlin Yang, Huobin Tan, Baochang Zhang<br>
+*International Conference on Learning Representations (ICLR)*, 2026.<br>
 
 
 <h3 id="pub2025">2025</h3>
