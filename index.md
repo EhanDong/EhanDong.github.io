@@ -40,8 +40,8 @@ Multimodal Learning, 3DGS, Foundation model.
 ## Honors & Activities 
 
 <div style="line-height: 1.8;">
-Honors: Outstanding Graduate, Beihang University.  Over 30 national and provincial awards during undergraduate study. Outstanding Camper, 2025 Spring Camp, Zhongguancun Academy. <br>
-Reviewer: AAAI(25)<br>
+Honors: Beihang University First-Class Scholarship; Outstanding Camper, 2025 Spring Camp, Zhongguancun Academy; Outstanding Graduate, Beihang University; Over 30 national and provincial awards during undergraduate study.<br>
+Reviewer: AAAI(25), ICML(26)<br>
 </div>
 
 <span id="news"></span>
@@ -58,7 +58,7 @@ Reviewer: AAAI(25)<br>
 </div>
 
 <span id="pub"></span>
-## Publications [[Preprint](#Preprint) - [2025](#pub2025) ]
+## Publications [[Preprint](#Preprint) - [2026](#pub2026) ]
 
 
 
