@@ -58,7 +58,7 @@ Reviewer: AAAI(25), ICML(26)<br>
 </div>
 
 <span id="pub"></span>
-## Publications [[Preprint](#Preprint) - [2026](#pub2026) ]
+## Publications [[Preprint](#Preprint) - [2026](#pub2026) -[2025](#pub2025)]
 
 
 
@@ -85,7 +85,7 @@ Changbai Li\#, **Haodong Zhu**\#, Hanlin Chen, Juan Zhang, Tongfei Chen, Shuo Ya
 - UrbanGS: Efficient and Scalable Architecture for Geometrically Accurate Large-Scene Reconstruction<br>
 Changbai Li\#, **Haodong Zhu**\#, Hanlin Chen, Xiuping Liang, Tongfei Chen, Shuwei Shao, Linlin Yang, Huobin Tan, Baochang Zhang<br>
 *International Conference on Learning Representations (ICLR)*, 2026.<br>
-
+[[arXiv]](https://arxiv.org/abs/2602.02089) 
 
 <h3 id="pub2025">2025</h3>
 
