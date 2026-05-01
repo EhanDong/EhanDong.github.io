@@ -34,7 +34,7 @@ Stay curious, upbeat, and resilient. Onward! <br>
 
 
 ##  Research Interests
-Multimodal Learning, 3DGS, Foundation model.
+RL, LLM post-training, Agentic RL, Multimodal Learning.
 
 
 ## Honors & Activities 
