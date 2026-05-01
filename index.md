@@ -49,6 +49,7 @@ Reviewer: AAAI(25), ICML(26)<br>
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> May 2026:  One paper is accepted to ICML 2026. </li>
 <li> Jan 2026:  One paper is accepted to ICLR 2026. </li>
 <li> Jun 2025:  One paper is accepted to ICCV 2025. </li>
 <li> Apr 2025: I have joined Zhongguancun Academy. </li>
@@ -81,6 +82,11 @@ Changbai Li\#, **Haodong Zhu**\#, Hanlin Chen, Juan Zhang, Tongfei Chen, Shuo Ya
 
 
 <h3 id="pub2026">2026</h3>
+
+- Unbiased Dynamic Pruning for Efficient Group-Based Policy Optimization<br>
+Haodong Zhu\#, Yangyang Ren\#, Yanjing Li, Mingbao Lin, Linlin Yang, Xuhui Liu, Xiantong Zhen, Haiguang Liu, Baochang Zhang<br>
+*International Conference on Machine Learning (ICML)*, 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2603.04135) 
 
 - UrbanGS: Efficient and Scalable Architecture for Geometrically Accurate Large-Scene Reconstruction<br>
 Changbai Li\#, **Haodong Zhu**\#, Hanlin Chen, Xiuping Liang, Tongfei Chen, Shuwei Shao, Linlin Yang, Huobin Tan, Baochang Zhang<br>
