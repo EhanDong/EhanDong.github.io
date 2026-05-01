@@ -34,7 +34,7 @@ Stay curious, upbeat, and resilient. Onward! <br>
 
 
 ##  Research Interests
-RL, LLM post-training, Agentic RL, Multimodal Learning.
+**RL**, LLM post-training, Agentic RL, Multimodal Learning.
 
 
 ## Honors & Activities 
@@ -85,7 +85,7 @@ Changbai Li\#, **Haodong Zhu**\#, Hanlin Chen, Juan Zhang, Tongfei Chen, Shuo Ya
 <h3 id="pub2026">2026</h3>
 
 - Unbiased Dynamic Pruning for Efficient Group-Based Policy Optimization<br>
-Haodong Zhu\#, Yangyang Ren\#, Yanjing Li, Mingbao Lin, Linlin Yang, Xuhui Liu, Xiantong Zhen, Haiguang Liu, Baochang Zhang<br>
+**Haodong Zhu**\#, Yangyang Ren\#, Yanjing Li, Mingbao Lin, Linlin Yang, Xuhui Liu, Xiantong Zhen, Haiguang Liu, Baochang Zhang<br>
 *International Conference on Machine Learning (ICML)*, 2026.<br>
 [[arXiv]](https://arxiv.org/pdf/2603.04135) 
 
