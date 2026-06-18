@@ -49,6 +49,7 @@ Reviewer: AAAI(25), ICML(26)<br>
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> June 2026:  One paper is accepted to ECCV 2026. </li>
 <li> May 2026:  One paper is accepted to ICML 2026. </li>
 <li> Apr 2026:  I have joined the Zhipu Joint Training Program. </li>
 <li> Jan 2026:  One paper is accepted to ICLR 2026. </li>
