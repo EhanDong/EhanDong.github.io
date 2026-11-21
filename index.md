@@ -106,7 +106,7 @@ Yangyang Ren\#, **Haodong Zhu**\#, Sheng Xu, Yanjing Li, Nikolai Yu. Zolotykh, W
 *International Conference on Machine Learning (ICML)*, 2026.<br>
 [[arXiv]](https://arxiv.org/pdf/2603.04135)
 
-- InfraNet: Quality-Aware RGB Guidance for Efficient Infrared Object Detection
+- InfraNet: Quality-Aware RGB Guidance for Efficient Infrared Object Detection<br>
 Zichao Feng\#, **Haodong Zhu**\#, Jingying Yang, Sheng Xu, Yangyang Ren, Yuguang Yang, Xuhui Liu, Juan Zhang, Tian Wang, Linlin Yang, Baochang Zhang<br>
 *European Conference on Computer Vision (ECCV)*, 2026.<br>
 [[arXiv]](https://arxiv.org/abs/2607.03795)
