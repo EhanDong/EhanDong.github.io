@@ -103,7 +103,12 @@ Yangyang Ren\#, **Haodong Zhu**\#, Sheng Xu, Yanjing Li, Nikolai Yu. Zolotykh, W
 - Unbiased Dynamic Pruning for Efficient Group-Based Policy Optimization<br>
 **Haodong Zhu**, Yangyang Ren, Yanjing Li, Mingbao Lin, Linlin Yang, Xuhui Liu, Xiantong Zhen, Haiguang Liu, Baochang Zhang<br>
 *International Conference on Machine Learning (ICML)*, 2026.<br>
-[[arXiv]](https://arxiv.org/pdf/2603.04135) 
+[[arXiv]](https://arxiv.org/pdf/2603.04135)
+
+- InfraNet: Quality-Aware RGB Guidance for Efficient Infrared Object Detection
+Zichao Feng\#, **Haodong Zhu**\#, Jingying Yang, Sheng Xu, Yangyang Ren, Yuguang Yang, Xuhui Liu, Juan Zhang, Tian Wang, Linlin Yang, Baochang Zhang<br>
+*European Conference on Computer Vision (ECCV)*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2607.03795)
 
 - UrbanGS: Efficient and Scalable Architecture for Geometrically Accurate Large-Scene Reconstruction<br>
 Changbai Li\#, **Haodong Zhu**\#, Hanlin Chen, Xiuping Liang, Tongfei Chen, Shuwei Shao, Linlin Yang, Huobin Tan, Baochang Zhang<br>
