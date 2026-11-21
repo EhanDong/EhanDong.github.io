@@ -49,6 +49,7 @@ Reviewer: AAAI(25), ICML(26)<br>
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Sep 2026:  One paper is accepted to NeurIPS 2026. </li>
 <li> Jun 2026:  One paper is accepted to ECCV 2026. </li>
 <li> May 2026:  One paper is accepted to ICML 2026. </li>
 <li> Apr 2026:  I have joined the Zhipu Joint Training Program. </li>
@@ -66,9 +67,19 @@ Reviewer: AAAI(25), ICML(26)<br>
 
 
 <h3 id="Preprint">Preprint</h3>
+- Kalman Meets Curriculum: Efficient Dynamic Prompt Selection for Adaptive RL Finetuning<br>
+**Haodong Zhu**, Yangyang Ren, Yanjing Li, Sheng Xu, Haiguang Liu, Linlin Yang, Baochang Zhang<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2607.27610)
+
+- GraphHCA: Closed-Form Hindsight Credit Assignment for Long-Horizon LLM Agents<br>
+**Haodong Zhu**, Yangyang Ren, Changbai Li, Sheng Xu, Linlin Yang, Baochang Zhang<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2609.35084)
+
 
 - Surf3R: Rapid Surface Reconstruction from Sparse RGB Views in Seconds<br>
-**Haodong Zhu**\#, Changbai Li\#, Yangyang Ren, Zichao Feng, Xuhui Liu, Hanlin Chen, Xiantong Zhen, Baochang Zhang<br>
+**Haodong Zhu**, Changbai Li, Yangyang Ren, Zichao Feng, Xuhui Liu, Hanlin Chen, Xiantong Zhen, Baochang Zhang<br>
 *arXiv*, 2025.<br>
 [[arXiv]](https://www.arxiv.org/abs/2508.04508)
 
@@ -84,9 +95,13 @@ Changbai Li\#, **Haodong Zhu**\#, Hanlin Chen, Juan Zhang, Tongfei Chen, Shuo Ya
 
 
 <h3 id="pub2026">2026</h3>
+- MaPP: A Unified Marginalized Posterior-Predictive Framework for Data-Efficient RLVR<br>
+Yangyang Ren\#, **Haodong Zhu**\#, Sheng Xu, Yanjing Li, Nikolai Yu. Zolotykh, Wentao Zhang, Baochang Zhang
+*The Fortieth Annual Conference on Neural Information Processing Systems （NeurIPS*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2609.34990) 
 
 - Unbiased Dynamic Pruning for Efficient Group-Based Policy Optimization<br>
-**Haodong Zhu**\#, Yangyang Ren\#, Yanjing Li, Mingbao Lin, Linlin Yang, Xuhui Liu, Xiantong Zhen, Haiguang Liu, Baochang Zhang<br>
+**Haodong Zhu**, Yangyang Ren, Yanjing Li, Mingbao Lin, Linlin Yang, Xuhui Liu, Xiantong Zhen, Haiguang Liu, Baochang Zhang<br>
 *International Conference on Machine Learning (ICML)*, 2026.<br>
 [[arXiv]](https://arxiv.org/pdf/2603.04135) 
 
@@ -98,7 +113,7 @@ Changbai Li\#, **Haodong Zhu**\#, Hanlin Chen, Xiuping Liang, Tongfei Chen, Shuw
 <h3 id="pub2025">2025</h3>
 
 - WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection<br>
-**Haodong Zhu**\#, Wenhao Dong\#, Linlin Yang, Hong Li, Yuguang Yang, Yangyang Ren, Qingcheng Zhu, Zichao Feng, Changbai Li, Shaohui Lin, Runqi Wang, Xiaoyan Luo\*, Baochang Zhang<br>
+**Haodong Zhu**, Wenhao Dong, Linlin Yang, Hong Li, Yuguang Yang, Yangyang Ren, Qingcheng Zhu, Zichao Feng, Changbai Li, Shaohui Lin, Runqi Wang, Xiaoyan Luo\*, Baochang Zhang<br>
 *International Conference on Computer Vision (ICCV)*, 2025.<br>
 [[arXiv]](https://www.arxiv.org/pdf/2507.18173) 
 
