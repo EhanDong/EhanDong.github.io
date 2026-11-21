@@ -95,8 +95,9 @@ Changbai Li\#, **Haodong Zhu**\#, Hanlin Chen, Juan Zhang, Tongfei Chen, Shuo Ya
 
 
 <h3 id="pub2026">2026</h3>
+
 - MaPP: A Unified Marginalized Posterior-Predictive Framework for Data-Efficient RLVR<br>
-Yangyang Ren\#, **Haodong Zhu**\#, Sheng Xu, Yanjing Li, Nikolai Yu. Zolotykh, Wentao Zhang, Baochang Zhang
+Yangyang Ren\#, **Haodong Zhu**\#, Sheng Xu, Yanjing Li, Nikolai Yu. Zolotykh, Wentao Zhang, Baochang Zhang<br>
 *The Fortieth Annual Conference on Neural Information Processing Systems （NeurIPS*, 2026.<br>
 [[arXiv]](https://arxiv.org/abs/2609.34990) 
 
